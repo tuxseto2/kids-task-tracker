@@ -8,9 +8,13 @@ This application lets parents (or guardians) create tasks for their children and
 
 🎯 Core Features
 	•	✅ Create & Assign Tasks — Parents can add new tasks with descriptions and point values.
+	
 	•	🎁 Rewards System — Kids can redeem points for rewards, creating motivation and accountability.
+	
 	•	📊 Progress Tracking — Easily monitor completed tasks and earned rewards.
+	
 	•	📱 Responsive UI — Built with React and Vite, optimized for mobile web experiences.
+	
 	•	💡 Built with Google Anti-Gravity — The app was generated and structured with the AI-driven development platform, demonstrating the power of agent-first workflows in modern app creation using prompt-based development.  ￼
 
 
