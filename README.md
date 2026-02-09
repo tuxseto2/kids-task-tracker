@@ -31,7 +31,11 @@ git clone https://github.com/tuxseto2/kids-task-tracker.git
 cd kids-task-tracker
 ```
 ### 2. Install dependencies
-```npm install```
+```bash
+npm install
+```
 
 ### 3. Run the development server
-```npm run dev```
+```bash
+npm run dev
+```
