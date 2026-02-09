@@ -7,6 +7,7 @@ Kids Task Tracker is a fun and engaging task-tracking web app designed to help k
 This application lets parents (or guardians) create tasks for their children and assign rewards that kids can earn by completing those tasks. The interface is mobile-friendly, intuitive, and focused on making task completion feel like a game — great for encouraging responsibility and habit building in a kid-friendly way.
 
 🎯 Core Features
+
 	•	✅ Create & Assign Tasks — Parents can add new tasks with descriptions and point values.
 	
 	•	🎁 Rewards System — Kids can redeem points for rewards, creating motivation and accountability.
